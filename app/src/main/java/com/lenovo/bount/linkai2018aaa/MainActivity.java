@@ -10,7 +10,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String name="林凯";
+
         //测试
+
+
+        //ceshi
 
     }
     }
